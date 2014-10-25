@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mnachaze/Sites/ph_breakout/.git'
+let g:netrw_dirhist_2='/Users/mnachaze/Sites/tdies/game'
+let g:netrw_dirhist_3='/Users/mnachaze/Sites/react/src'
+let g:netrw_dirhist_4='/Users/mnachaze/Sites/react/src/scripts'
+let g:netrw_dirhist_5='/Users/mnachaze/Sites/react/src/scripts/components'
+let g:netrw_dirhist_6='/Users/mnachaze/Sites/react/src'
+let g:netrw_dirhist_7='/Users/mnachaze/Sites/react/src/styles'
